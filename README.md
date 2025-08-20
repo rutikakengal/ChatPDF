@@ -74,7 +74,7 @@ Please read our Contribution Guidelines
 
  ---
 
- ##🙏 Acknowledgments
+ ## 🙏 Acknowledgments
 
 Hugging Face → For the all-MiniLM-L6-v2 embeddings model.
 
